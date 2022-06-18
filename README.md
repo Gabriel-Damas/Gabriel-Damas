@@ -23,4 +23,4 @@ Reach me out 👇🏼
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Damas&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-![Snake animation](https://github.com/story200/story200/blob/output/github-contribution-grid-snake.svg)
+
