@@ -4,7 +4,7 @@
 
 My name is Gabriel Damasceno 👨‍💻
 
-I'm a newbie in this big world, I've been a Front-End developer since 2020. 💻
+I've been a Front-End developer since 2020. 💻
 
 I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
