@@ -18,4 +18,4 @@ Reach me out 👇🏼
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/channel/UCpiX8i2bfYBDEDxT-9QDlUQ) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/art.s.t.o.r.y_/) 
 
 
-![Snake animation](https://github.com/story200/story200/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gabriel-Damas/Gabriel-Damas/blob/output/github-contribution-grid-snake.svg)
