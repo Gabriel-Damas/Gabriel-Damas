@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=Gabriel-Damas)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 My name is Gabriel Damasceno 👨‍💻
@@ -8,15 +8,21 @@ I've been a Front-End developer since 2020. 💻
 
 I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-### 🌍 "Rejeite o bom senso para tornar o impossível possível" 🧠
+### 🌍 "Reject common sense to make the impossible possible" 🧠
 
 - 📍 From SP living in Osasco
 -  💻 Front-End 
 
 Reach me out 👇🏼
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos)](https://www.youtube.com/channel/UCpiX8i2bfYBDEDxT-9QDlUQ) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/gabriellldamasceno) 
-![](https://komarev.com/ghpvc/?username=Gabriel-Damas)
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabriellldamasceno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5511989403472&text=Olá, Tudo bem ?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-damasceno-rodrigues-566428250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
 <div align="center">
   <a href="https://github.com/Gabriel-Damas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Damas&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
