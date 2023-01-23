@@ -22,7 +22,7 @@ Reach me out 👇🏼
   <a href="https://www.linkedin.com/in/gabriel-damasceno-rodrigues-566428250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/Gabriel-Damas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Damas&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
