@@ -26,16 +26,11 @@ Reach me out 👇🏼
 <br>
 <div align="center">
   <a href="https://github.com/Gabriel-Damas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Damas&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Damas&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Gabriel-Damas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Damas&count_private=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Damas&count_private=true&include_all_commits=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Damas&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
 
 
 
