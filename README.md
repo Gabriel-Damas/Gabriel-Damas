@@ -4,14 +4,14 @@
 
 My name is Gabriel Damasceno 👨‍💻
 
-I've been a Front-End developer since 2020. 💻
+I am currently a Data Analyst at Smiles | GOL Linhas Aéreas. 💻
 
 I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 ### 🌍 "Reject common sense to make the impossible possible" 🧠
 
 - 📍 From SP living in Osasco
--  💻 Front-End 
+-  💻 Data Analyst 
 
 Reach me out 👇🏼
 
