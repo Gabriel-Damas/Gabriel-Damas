@@ -4,7 +4,7 @@
 
 My name is Gabriel Damasceno 👨‍💻
 
-I am currently a Data Analyst at Smiles | GOL Linhas Aéreas. 💻
+I am currently a Data Analyst at Smiles | GOL Linhas Aéreas 💻
 
 I am passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
